@@ -19,6 +19,7 @@
 }
 
 .u-section-1 .u-list-item-1 {
+  overflow: hidden;
   box-shadow: 4px 4px 10px 0 rgba(0,0,0,0.4);
 }
 
@@ -43,6 +44,7 @@
 }
 
 .u-section-1 .u-list-item-2 {
+  overflow: hidden;
   box-shadow: 4px 4px 10px 0 rgba(0,0,0,0.4);
 }
 
@@ -67,6 +69,7 @@
 }
 
 .u-section-1 .u-list-item-3 {
+  overflow: hidden;
   box-shadow: 4px 4px 10px 0 rgba(0,0,0,0.4);
 }
 
@@ -91,6 +94,7 @@
 }
 
 .u-section-1 .u-list-item-4 {
+  overflow: hidden;
   box-shadow: 4px 4px 10px 0 rgba(0,0,0,0.4);
 }
 
@@ -115,6 +119,7 @@
 }
 
 .u-section-1 .u-list-item-5 {
+  overflow: hidden;
   box-shadow: 4px 4px 10px 0 rgba(0,0,0,0.4);
 }
 
@@ -139,6 +144,7 @@
 }
 
 .u-section-1 .u-list-item-6 {
+  overflow: hidden;
   box-shadow: 4px 4px 10px 0 rgba(0,0,0,0.4);
 }
 
@@ -163,6 +169,7 @@
 }
 
 .u-section-1 .u-list-item-7 {
+  overflow: hidden;
   box-shadow: 4px 4px 10px 0 rgba(0,0,0,0.4);
 }
 
@@ -187,6 +194,7 @@
 }
 
 .u-section-1 .u-list-item-8 {
+  overflow: hidden;
   box-shadow: 4px 4px 10px 0 rgba(0,0,0,0.4);
 }
 
@@ -211,6 +219,7 @@
 }
 
 .u-section-1 .u-list-item-9 {
+  overflow: hidden;
   box-shadow: 4px 4px 10px 0 rgba(0,0,0,0.4);
 }
 
@@ -255,6 +264,7 @@
 
   .u-section-1 .u-list-item-2 {
     background-size: auto;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-2 {
@@ -269,6 +279,7 @@
 
   .u-section-1 .u-list-item-3 {
     background-size: auto;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-3 {
@@ -283,6 +294,7 @@
 
   .u-section-1 .u-list-item-4 {
     background-size: auto;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-4 {
@@ -297,6 +309,7 @@
 
   .u-section-1 .u-list-item-5 {
     background-size: auto;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-5 {
@@ -311,6 +324,7 @@
 
   .u-section-1 .u-list-item-6 {
     background-size: auto;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-6 {
@@ -325,6 +339,7 @@
 
   .u-section-1 .u-list-item-7 {
     background-size: auto;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-7 {
@@ -339,6 +354,7 @@
 
   .u-section-1 .u-list-item-8 {
     background-size: auto;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-8 {
@@ -353,6 +369,7 @@
 
   .u-section-1 .u-list-item-9 {
     background-size: auto;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-9 {
